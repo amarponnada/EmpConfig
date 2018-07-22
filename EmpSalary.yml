@@ -1,2 +1,5 @@
 db:
-  sid:emp
+  sid: emp
+info:
+  foo: bar
+someList: [2, 3, 7]
