@@ -1,1 +1,2 @@
-dbsid: emp
+db:
+    url: usr@emp
